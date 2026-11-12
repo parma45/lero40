@@ -1,0 +1,6 @@
+LERO 40 - SITO WEB
+
+Apri index.html per visualizzare il sito in locale.
+La cartella assets contiene le fotografie ottimizzate in formato WebP.
+Carica l’intera cartella del sito sul servizio di hosting mantenendo la struttura: index.html, assets/, robots.txt, sitemap.xml.
+Indirizzo: Via Regolo 71, Bibione (VE).
